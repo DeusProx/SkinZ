@@ -1,0 +1,103 @@
+semi automatic pistol:
+  850651933  // tarn
+  798375117  // polymer
+  850883505  // gold
+
+SAR:
+  854043941  // black, wood
+  846638333  // "Black Widow" black, red
+  818613234  // Workbench SAR (official), black yellow
+
+ak:
+  857884566  // aksu gold+blood
+  856197631  // blacktarn+blue
+  840477492  // crimson king blue+red
+  809190373  // first aksu (official)
+  800980236  // tempered (official)
+
+bolt:
+  840105253  // polymer
+  818403150  // tarn
+
+custom smg:
+  818376843  // tempered+short
+
+rocket launcher:
+  851509734  // red black, rust
+
+hammer:
+  833423263  // red lava hammer
+
+hatchet(axe):
+  815601312  // hand crafted hatched,, black+tempered blade
+  816421583  // little boy hatched, blue black 
+  816821898  // whitewood <<<< cool print on blade
+  817235422  // tactical tomahawk, black
+  817544489  // forest <<<< cool print on blade
+  816552652  // decorative hatched <<<< cool print on hatchet
+  817522321  // worn decorative hatchet <<<< cool print on print
+  820071305  // stylish hatched, black/silver striped, pattern on blade
+  833193256  // commando elite survival, green,carbon,black
+  844903334  // carbon fiber tomahawk
+  857577948  // forest killer, blackpattern+red
+  824552943  // golden axe (official)
+  814713259  // vikings tomahawk (official)
+  816715928  // military hatchet (official)
+
+pick axe:
+  818347415  // black red, new
+  818804979  // black, melting
+
+salvaged icepick:
+  850392018  // black red
+  850392365  // black yellow
+  844858975  // carbon, black grey
+
+facemask:
+  832021670  // tarn
+  824898622  // stainless
+  807821375  // blue glowing smiling face
+  794837198  // green glowing face
+  806983252  // rusted monoeye
+  792905158  // rusted smile
+
+breastplate:
+  797410767  // black tactical
+  796728308  // tarn tactical
+
+road sign skirt:
+  794291485  // green tarn (official)
+  842196734  // dark tarn
+  806208384  // rusted
+
+hoodie:
+  854067751  // russian pixel
+  853947620  // american digi camo
+
+burlap shirt:
+  809909900  // "Burlap and leather vest" (official), viking
+
+collared shirt:
+  802073199  // red lumber jack flanel
+  848845857  // bright red flanel
+
+boots:
+  809586899  // winter tarn
+  784559403  // hazard tarn 
+
+sword:
+  825240467  // wooden sword
+  846456104  // m9 blade
+
+longsword:
+  855009078  // wakizashi | improvised (official)
+
+bone club:
+  791109245  // little friend
+
+big chest:
+  576569265  // gucci
+
+ownstuff?
+  834147045 // fera blackpants
+  834127935 // earl black pants
